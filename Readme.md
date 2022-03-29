@@ -3,19 +3,19 @@
 ![](https://komarev.com/ghpvc/?username=prolaymm)
 
 <ul>
-  <li> Hello World</li>
-  </ul>
-<p>• Developing and maintaining mobile applications for the Android/ IOS platform.
-• Provided support to the design and development of applications
-• Develop project concepts and maintain optimal workflow
-• Work with senior developers to manage large, complex design projects for corporate clients.
-• Complete detailed programming and development tasks for front-end internal websites.
-• Carry out quality assurance tests to discover errors and optimize usability
-• Resolved technological issues for assigned projects leading to the highest customer satisfaction 
-  ratings for the company
-• Improve the application on client requests
-• Updating launched applications</p>
 
+  </ul>
+ <li>Developing and maintaining mobile applications for the Android/ IOS platform.</li>
+<li>Provided support to the design and development of applications</li>
+<li>Develop project concepts and maintain optimal workflow</li>
+<li>Work with senior developers to manage large, complex design projects for corporate clients.</li>
+<li>Complete detailed programming and development tasks for front-end internal websites.</li>
+<li> Carry out quality assurance tests to discover errors and optimize usability</li>
+<li>Resolved technological issues for assigned projects leading to the highest customer satisfaction 
+  ratings for the company</li>
+<li>Improve the application on client requests</li>
+<li>Updating launched applications</li>
+</ul>
 
 </br>
 
