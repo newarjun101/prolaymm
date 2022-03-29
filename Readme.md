@@ -2,7 +2,16 @@
 
 ![](https://komarev.com/ghpvc/?username=prolaymm)
 
-<p>I'm a professional Mobile Developer with over 2 years of experience in Android  software operating system platform.</p>
+<p>• Developing and maintaining mobile applications for the Android/ IOS platform.
+• Provided support to the design and development of applications
+• Develop project concepts and maintain optimal workflow
+• Work with senior developers to manage large, complex design projects for corporate clients.
+• Complete detailed programming and development tasks for front-end internal websites.
+• Carry out quality assurance tests to discover errors and optimize usability
+• Resolved technological issues for assigned projects leading to the highest customer satisfaction 
+  ratings for the company
+• Improve the application on client requests
+• Updating launched applications</p>
 
 
 </br>
