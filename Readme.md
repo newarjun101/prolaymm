@@ -2,9 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=prolaymm)
 
-<ul>
-
-  </ul>
+<ul style ="font-style: oblique">
  <li>Developing and maintaining mobile applications for the Android/ IOS platform.</li>
 <li>Provided support to the design and development of applications</li>
 <li>Develop project concepts and maintain optimal workflow</li>
