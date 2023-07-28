@@ -30,8 +30,5 @@
 <a href="https://github.com/prolaymm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prolaymm&count_private=true&layout=compact&bg_color=0,232526,414345&icon_color=ffffff&title_color=ffffff&text_color=ffffff&line_height=30&v=5"/>
 </a>
-<br></br>
-<a href="https://github.com/prolaymm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prolaymm&custom_title=My%20Github%20Stats&show_icons=true&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=20.5&v=5&count_private=true"/>
-</a>
+
 
