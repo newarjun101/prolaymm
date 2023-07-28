@@ -23,7 +23,7 @@
 </br>
 
 <p>
-<a href="https://www.linkedin.com/in/prolaymm"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/prolaymm"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/prolaymm"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
 <br>
 
